@@ -1,0 +1,15 @@
+
+Lily:  Emailed TA about meeting times and created files for the site on Github repo. Finalized dataset and visualization plans with team members.
+
+Natalie: Started coding scatterplot visualization. Finalized dataset and visualization plans with team members.
+
+Xu: Started coding map visualization. Finalized dataset and visualization plans with team members.
+
+
+TA Questions:
+
+1. How do we go about citing outside code (for example, using a pre-made d3 US map canvas for a heat map)?
+
+2.  Going off of the last question, how/where do we cite our data source?
+
+3. How elaborate (in terms of CSS) does our final page need to be? Should there be sufficient styling?
